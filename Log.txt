@@ -1,2 +1,3 @@
 Recurso Log
 Segunda Linha
+Terceira Linha - Alterado remotamente
